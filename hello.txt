@@ -1,0 +1,5 @@
+public class hello{
+
+	private Integer username;
+	private String password;
+}
