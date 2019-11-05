@@ -4,4 +4,6 @@ public class hello{
 	private String password;
 
 	private String age;
+
+	private String sex;
 }
