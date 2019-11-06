@@ -6,6 +6,4 @@ public class hello{
 	private String age;
 
 	private String sex;
-
-	oooo;
-}
+	iikfdg;slgk;ldfksg;
